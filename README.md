@@ -31,14 +31,12 @@
 ###### | Capítulo | Tema | Código |
 
 ###### |--------|------|--------|
-
-| 01 | Introduccion a C++ / Cap 01 | 📂 |
-|      https://youtu.be/PvkXXsZ8PIg |
----
+###### | 01 | Introduccion a C++ / Cap 01 | 📂 |
+###### |      https://youtu.be/PvkXXsZ8PIg |
 
 ###### | 02 | Configuracion e Instalacion Dev C++ / Cap 02 | 📂 |
 
-###### |      https://youtu.be/ND5lc\_JP5y0 |
+###### |      https://youtu.be/ND5lc_JP5y0 |
 
 ###### | 03 | Primer Programa Hola Mundo / Cap 03 | 📂 |
 
