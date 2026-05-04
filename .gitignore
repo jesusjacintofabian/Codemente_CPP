@@ -1,21 +1,7 @@
-# VS Code
-.vscode/
-
-# Ejecutables
 *.exe
 *.out
 a.out
-
-# Compilación C++
 *.o
-*.obj
-
-# Archivos temporales
-*.tmp
-*.log
-*.swp
 *~
-
-# Carpetas de build (recomendado)
+.vscode/
 build/
-cmake-build-*/
